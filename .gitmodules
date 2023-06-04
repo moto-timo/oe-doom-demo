@@ -26,3 +26,10 @@
 	path = meta-odroid
 	url = https://github.com/akuster/meta-odroid.git
 	branch = master
+[submodule "meta-intel"]
+	path = meta-intel
+	url = https://git.yoctoproject.org/meta-intel
+[submodule "meta-up-board"]
+	path = meta-up-board
+	url = https://github.com/moto-timo/meta-up-board
+	branch = mickledore
