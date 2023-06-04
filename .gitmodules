@@ -26,3 +26,6 @@
 	path = meta-odroid
 	url = https://github.com/akuster/meta-odroid.git
 	branch = master
+[submodule "meta-riscv"]
+	path = meta-riscv
+	url = ./meta-riscv/
